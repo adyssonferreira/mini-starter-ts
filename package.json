@@ -1,6 +1,6 @@
 {
   "name": "mini-starter-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ts node project generator",
   "main": "bin/index.js",
   "author": "Adysson Ferreira",
