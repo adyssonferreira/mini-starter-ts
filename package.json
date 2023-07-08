@@ -1,0 +1,28 @@
+{
+  "name": "mini-starter-ts",
+  "version": "1.0.0",
+  "description": "Ts node project generator",
+  "main": "bin/index.js",
+  "author": "Adysson Ferreira",
+  "license": "ISC",
+  "bin": {
+    "mini-starter-ts": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adyssonferreira/mini-starter-ts.git"
+  },
+  "keywords": [
+    "starter",
+    "generator",
+    "generate",
+    "gen",
+    "typescript",
+    "ts",
+    "types",
+    "typing",
+    "js",
+    "new",
+    "app"
+  ]
+}
